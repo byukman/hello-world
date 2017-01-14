@@ -1,2 +1,2 @@
-# hello-world
-learning Github
+#hello-world
+My name is Becki and I enjoy doing tutorials late at night!
